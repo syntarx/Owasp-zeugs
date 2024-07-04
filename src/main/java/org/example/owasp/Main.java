@@ -1,10 +1,8 @@
 package org.example.owasp;
 
-public class App {
+public class Main {
     public static void main(String[] args) {
-        System.out.println("OWASP A6 - Unsichere Komponenten und Bibliotheken Projekt");
-
-        // Beispiel: Unsichere Komponente verwenden
+        // Beispiel: Aufruf einer unsicheren Funktion
         UnsichereKomponente unsichereKomponente = new UnsichereKomponente();
         unsichereKomponente.unsichererAufruf();
     }

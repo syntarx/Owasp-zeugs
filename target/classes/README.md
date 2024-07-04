@@ -1,4 +1,3 @@
-```markdown
 # Persönliches Security Book
 
 **Name, Vorname:**  
@@ -140,10 +139,12 @@ Implementierung benutzerdefinierter Authentifizierungsmanager und -provider.
 
 ### 5.2 WebGoat
 Docker Container läuft.
-[img.png](img.png)
+
+![img.png](img.png)
+
 Auf die WebGoat Applikation habe ich auch Zugriff. Ich werde jetzt die Aufgaben unter A06 machen. WebGoat hatte auch viele Vulnerable Components.  
-
-
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
 Diese Aufgabe zeigte, dass das Problem nicht immer in deinem Code ist. Das Problem kann auch in Komponenten oder ähnlichen Sachen liegen.
 
 ### 5.3 Knowing the OSS "Bill of Materials" is the starting point
@@ -209,4 +210,4 @@ Für die in 25.000 Anwendungen analysierten Komponenten wurde Folgendes festgest
 - Für 8 % der 2 Jahre alten Komponenten gab es keine neuere Version
 - Für 23 % der 11 Jahre alten Komponenten gab es keine neuere Version
 - Ältere Komponenten machen den Großteil des Risikos aus
-```
+![img_3.png](img_3.png)
